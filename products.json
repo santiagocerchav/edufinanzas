@@ -1,0 +1,632 @@
+[
+  {
+    "id": 99453,
+    "name": "Milanesa de cerdo fresca",
+    "description": "Milanesa de cerdo fresca, ideal para freír o empanizar.",
+    "category": "Carnes",
+    "image": "https://www.grillhouse.mx/cdn/shop/products/GH_COMNORC_Milanesa_Cerdo_500g.jpg?v=1644892373",
+    "prices": {
+      "walmart": 110.50,
+      "chedraui": 108.00,
+      "soriana": 107.50,
+      "aurrera": 106.00,
+      "laComer": 112.00
+    },
+    "promocion": {
+      "walmart": "X",
+      "chedraui": "3x$300",
+      "soriana": "X",
+      "aurrera": "X",
+      "laComer": "2x$200"
+    }
+  },
+  {
+    "id": 11598,
+    "name": "Zanahoria",
+    "description": "Zanahoria fresca, rica en vitamina A y fibra.",
+    "category": "Verduras",
+    "image": "https://chedrauimx.vtexassets.com/arquivos/ids/49187508/2502958_00.jpg?v=638845900934570000",
+    "prices": {
+      "walmart": 11.50,
+      "chedraui": 10.80,
+      "soriana": 12.00,
+      "aurrera": 11.00,
+      "laComer": 13.00
+    },
+    "promocion": {
+      "walmart": "X",
+      "chedraui": "X",
+      "soriana": "2x$20",
+      "aurrera": "5x$50",
+      "laComer": "X"
+    }
+  },
+  {
+    "id": 20219,
+    "name": "Crema dental Colgate",
+    "description": "Crema dental Colgate para una higiene bucal completa.",
+    "category": "Cuidado personal",
+    "image": "https://d1zc67o3u1epb0.cloudfront.net/media/catalog/product/1/4/1496_1__2.jpg?width=265&height=390&store=default&image-type=image",
+    "prices": {
+      "walmart": 45.00,
+      "chedraui": 44.50,
+      "soriana": 43.90,
+      "aurrera": 42.00,
+      "laComer": 46.00
+    },
+    "promocion": {
+      "walmart": "X",
+      "chedraui": "2x$80",
+      "soriana": "X",
+      "aurrera": "X",
+      "laComer": "3x$120"
+    }
+  },
+  {
+    "id": 30826,
+    "name": "Papel higiénico Precisismo 6 rollos",
+    "description": "Papel higiénico suave y resistente, paquete con 6 rollos.",
+    "category": "Hogar",
+    "image": "https://www.soriana.com/on/demandware.static/-/Sites-soriana-grocery-master-catalog/default/dwfc491392/images/product/7500525494399_A.jpg",
+    "prices": {
+      "walmart": 66.00,
+      "chedraui": 65.50,
+      "soriana": 64.00,
+      "aurrera": 63.00,
+      "laComer": 67.00
+    },
+    "promocion": {
+      "walmart": "X",
+      "chedraui": "X",
+      "soriana": "2x$110.90",
+      "aurrera": "X",
+      "laComer": "3x$160"
+    }
+  },
+  {
+    "id": 18724,
+    "name": "Detergente regular Ariel 2kg",
+    "description": "Detergente en polvo Ariel para lavado eficiente.",
+    "category": "Limpieza",
+    "image": "https://res.cloudinary.com/riqra/image/upload/w_656,h_656,c_limit,q_auto,f_auto/v1703255772/sellers/5/lodfiypdfpeaihsdqyzy.webp",
+    "prices": {
+      "walmart": 155.00,
+      "chedraui": 152.00,
+      "soriana": 150.00,
+      "aurrera": 149.90,
+      "laComer": 158.00
+    },
+    "promocion": {
+      "walmart": "X",
+      "chedraui": "X",
+      "soriana": "X",
+      "aurrera": "X",
+      "laComer": "2x$290"
+    }
+  },
+  {
+    "id": 59246,
+    "name": "Plátano",
+    "description": "Plátano maduro, dulce y nutritivo.",
+    "category": "Frutas",
+    "image": "https://saludinteractiva.mx/blog/wp-content/uploads/2022/05/beneficios_del_platano_istock.webp",
+    "prices": {
+      "walmart": 15.50,
+      "chedraui": 14.80,
+      "soriana": 16.00,
+      "aurrera": 15.00,
+      "laComer": 17.00
+    },
+    "promocion": {
+      "walmart": "X",
+      "chedraui": "X",
+      "soriana": "5x$70",
+      "aurrera": "X",
+      "laComer": "X"
+    }
+  },
+  {
+    "id": 85491,
+    "name": "Aceite vegetal Precisismo",
+    "description": "Aceite vegetal para cocinar, libre de colesterol.",
+    "category": "Despensa",
+    "image": "https://www.soriana.com/on/demandware.static/-/Sites-soriana-grocery-master-catalog/default/dwe31fb762/images/product/7500525593665_A.jpg",
+    "prices": {
+      "walmart": 28.00,
+      "chedraui": 27.50,
+      "soriana": 26.50,
+      "aurrera": 25.00,
+      "laComer": 29.00
+    },
+    "promocion": {
+      "walmart": "X",
+      "chedraui": "X",
+      "soriana": "2x$49.90",
+      "aurrera": "X",
+      "laComer": "3x$75"
+    }
+  },
+  {
+    "id": 48701,
+    "name": "Shampoo Optims 700ml",
+    "description": "Shampoo para cabello dañado, con proteínas y vitaminas.",
+    "category": "Cuidado personal",
+    "image": "https://i5.walmartimages.com.mx/gr/images/product-images/img_large/00750954601738L.jpg",
+    "prices": {
+      "walmart": 83.00,
+      "chedraui": 82.50,
+      "soriana": 81.90,
+      "aurrera": 80.00,
+      "laComer": 85.00
+    },
+    "promocion": {
+      "walmart": "X",
+      "chedraui": "2x$150",
+      "soriana": "X",
+      "aurrera": "X",
+      "laComer": "X"
+    }
+  },
+  {
+    "id": 66320,
+    "name": "Cereal Precisismo 400g",
+    "description": "Cereal crujiente y delicioso, ideal para el desayuno.",
+    "category": "Despensa",
+    "image": "https://www.soriana.com/on/demandware.static/-/Sites-soriana-grocery-master-catalog/default/dwd94ad0b8/images/product/7500525491244_A.jpg",
+    "prices": {
+      "walmart": 33.00,
+      "chedraui": 32.50,
+      "soriana": 31.00,
+      "aurrera": 30.00,
+      "laComer": 34.00
+    },
+    "promocion": {
+      "walmart": "X",
+      "chedraui": "X",
+      "soriana": "2x$55.90",
+      "aurrera": "X",
+      "laComer": "X"
+    }
+  },
+  {
+    "id": 48200,
+    "name": "Detergente en polvo Roma 1kg",
+    "description": "Detergente en polvo para ropa, eficaz y económico.",
+    "category": "Limpieza",
+    "image": "https://i5.walmartimages.com.mx/gr/images/product-images/img_large/00750102600460L.jpg",
+    "prices": {
+      "walmart": 32.00,
+      "chedraui": 31.50,
+      "soriana": 30.00,
+      "aurrera": 29.00,
+      "laComer": 33.00
+    },
+    "promocion": {
+      "walmart": "X",
+      "chedraui": "X",
+      "soriana": "X",
+      "aurrera": "X",
+      "laComer": "3x$85"
+    }
+  },
+  {
+    "id": 98351,
+    "name": "Catsup Clemente Jacques 320g",
+    "description": "Catsup elaborada con tomates naturales, ideal para acompañar tus platillos.",
+    "category": "Condimentos",
+    "image": "https://chedrauimx.vtexassets.com/arquivos/ids/49929024/7501052472447_00.jpg?v=638857066841770000",
+    "prices": {
+      "walmart": 14.00,
+      "chedraui": 13.50,
+      "soriana": 12.90,
+      "aurrera": 12.00,
+      "laComer": 15.00
+    },
+    "promocion": {
+      "walmart": "X",
+      "chedraui": "X",
+      "soriana": "X",
+      "aurrera": "X",
+      "laComer": "2x$25"
+    }
+  },
+  {
+    "id": 10487,
+    "name": "Carne molida de res 80/K",
+    "description": "Carne molida de res, ideal para hamburguesas y guisos.",
+    "category": "Carnes",
+    "image": "https://supercarniceria.com/cdn/shop/products/carne-molida-de-res-sirloin-1-kg-r706-883299_1024x1024.jpg?v=1600777507",
+    "prices": {
+      "walmart": 96.00,
+      "chedraui": 95.50,
+      "soriana": 94.90,
+      "aurrera": 93.00,
+      "laComer": 97.00
+    },
+    "promocion": {
+      "walmart": "X",
+      "chedraui": "X",
+      "soriana": "X",
+      "aurrera": "X",
+      "laComer": "3x$270"
+    }
+  },
+  {
+    "id": 34910,
+    "name": "Lavatrastes Axión Limón 1.4L",
+    "description": "Lavatrastes con aroma a limón, efectivo y de larga duración.",
+    "category": "Limpieza",
+    "image": "https://chedrauimx.vtexassets.com/arquivos/ids/49515084/7509546073651_00.jpg?v=638850790241170000",
+    "prices": {
+      "walmart": 54.00,
+      "chedraui": 53.50,
+      "soriana": 52.90,
+      "aurrera": 51.00,
+      "laComer": 55.00
+    },
+    "promocion": {
+      "walmart": "X",
+      "chedraui": "X",
+      "soriana": "X",
+      "aurrera": "X",
+      "laComer": "2x$100"
+    }
+  },
+  {
+    "id": 27104,
+    "name": "Mayonesa Hellmans 960g",
+    "description": "Mayonesa cremosa y deliciosa, perfecta para tus sandwiches.",
+    "category": "Condimentos",
+    "image": "https://www.soriana.com/on/demandware.static/-/Sites-soriana-grocery-master-catalog/default/dweb9f54bf/images/product/7506306318700_A.jpg",
+    "prices": {
+      "walmart": 65.00,
+      "chedraui": 64.50,
+      "soriana": 63.90,
+      "aurrera": 62.00,
+      "laComer": 66.00
+    },
+    "promocion": {
+      "walmart": "X",
+      "chedraui": "X",
+      "soriana": "X",
+      "aurrera": "X",
+      "laComer": "2x$120"
+    }
+  },
+  {
+    "id": 12967,
+    "name": "Pastas Barrilla 800g",
+    "description": "Pastas de alta calidad, ideales para tus platillos favoritos.",
+    "category": "Despensa",
+    "image": "https://chedrauimx.vtexassets.com/arquivos/ids/49342582/8076809579957_00.jpg?v=638848138627200000",
+    "prices": {
+      "walmart": 29.00,
+      "chedraui": 28.50,
+      "soriana": 27.90,
+      "aurrera": 26.00,
+      "laComer": 30.00
+    },
+    "promocion": {
+      "walmart": "X",
+      "chedraui": "X",
+      "soriana": "X",
+      "aurrera": "X",
+      "laComer": "3x$75"
+    }
+  },
+  {
+    "id": 59924,
+    "name": "Jabón Dermolimpiador Neutro Balance 4 pack",
+    "description": "Jabón dermatológico, suave con la piel y efectivo contra bacterias.",
+    "category": "Cuidado personal",
+    "image": "https://res.cloudinary.com/riqra/image/upload/v1744824996/merco-monterrey/products/096a9b6fa79cdf4c.jpg",
+    "prices": {
+      "walmart": 61.00,
+      "chedraui": 60.50,
+      "soriana": 59.90,
+      "aurrera": 58.00,
+      "laComer": 62.00
+    },
+    "promocion": {
+      "walmart": "X",
+      "chedraui": "X",
+      "soriana": "X",
+      "aurrera": "X",
+      "laComer": "2x$110"
+    }
+  },
+  {
+    "id": 11590,
+    "name": "Mango paraíso",
+    "description": "Mango dulce y jugoso, rico en vitaminas y fibra.",
+    "category": "Frutas",
+    "image": "https://i5.walmartimages.com.mx/gr/images/product-images/img_large/00000000004959L.jpg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+    "prices": {
+      "walmart": 23.00,
+      "chedraui": 22.50,
+      "soriana": 21.80,
+      "aurrera": 20.00,
+      "laComer": 24.00
+    },
+    "promocion": {
+      "walmart": "X",
+      "chedraui": "X",
+      "soriana": "X",
+      "aurrera": "X",
+      "laComer": "5x$100"
+    }
+  },
+  {
+    "id": 33197,
+    "name": "Pechuga de pollo sin hueso",
+    "description": "Pechuga de pollo fresca, baja en grasa y alta en proteínas.",
+    "category": "Carnes",
+    "image": "https://desiderata.mx/cdn/shop/products/pechuga-de-pollo-sin-hueso-y-piel-b.jpg?v=1619139496",
+    "prices": {
+      "walmart": 158.00,
+      "chedraui": 156.50,
+      "soriana": 155.00,
+      "aurrera": 154.90,
+      "laComer": 160.00
+    },
+    "promocion": {
+      "walmart": "X",
+      "chedraui": "X",
+      "soriana": "X",
+      "aurrera": "X",
+      "laComer": "2x$300"
+    }
+  },
+  {
+    "id": 48922,
+    "name": "Pierna de cerdo con hueso congelado",
+    "description": "Pierna de cerdo con hueso, ideal para asar o guisar.",
+    "category": "Carnes",
+    "image": "https://chedrauimx.vtexassets.com/arquivos/ids/49397961/2503719_00.jpg?v=638849176238500000",
+    "prices": {
+      "walmart": 72.00,
+      "chedraui": 71.50,
+      "soriana": 70.00,
+      "aurrera": 69.90,
+      "laComer": 73.00
+    },
+    "promocion": {
+      "walmart": "X",
+      "chedraui": "X",
+      "soriana": "X",
+      "aurrera": "X",
+      "laComer": "3x$200"
+    }
+  },
+  {
+    "id": 12476,
+    "name": "Toronja sangría",
+    "description": "Toronja fresca y jugosa, rica en vitamina C.",
+    "category": "Frutas",
+    "image": "https://www.soriana.com/on/demandware.static/-/Sites-soriana-grocery-master-catalog/default/dwd2319aff/images/product/0000000005876_A.jpg",
+    "prices": {
+      "walmart": 31.00,
+      "chedraui": 30.50,
+      "soriana": 29.80,
+      "aurrera": 28.00,
+      "laComer": 32.00
+    },
+    "promocion": {
+      "walmart": "X",
+      "chedraui": "X",
+      "soriana": "X",
+      "aurrera": "X",
+      "laComer": "5x$140"
+    }
+  },
+  {
+    "id": 55693,
+    "name": "Aguacate Hass en malla",
+    "description": "Aguacate Hass cremoso y delicioso, ideal para guacamole.",
+    "category": "Frutas",
+    "image": "https://www.cityclub.com.mx/dw/image/v2/BGBD_PRD/on/demandware.static/-/Sites-soriana-grocery-master-catalog/default/dwe55ff042/images/product/2000116957852_A.jpg?sw=1000&sh=1000&sm=fit",
+    "prices": {
+      "walmart": 41.00,
+      "chedraui": 40.50,
+      "soriana": 39.80,
+      "aurrera": 38.00,
+      "laComer": 42.00
+    },
+    "promocion": {
+      "walmart": "X",
+      "chedraui": "X",
+      "soriana": "X",
+      "aurrera": "X",
+      "laComer": "3x$110"
+    }
+  },
+  {
+    "id": 30398,
+    "name": "Galleta Saladitas Gamesa 320g",
+    "description": "Galletas saladas, crujientes y deliciosas.",
+    "category": "Snacks",
+    "image": "https://www.gamesacookies.com/sites/gamesa.com/files//2022-03/saladitas-big-v2.png",
+    "prices": {
+      "walmart": 36.00,
+      "chedraui": 35.50,
+      "soriana": 34.90,
+      "aurrera": 33.00,
+      "laComer": 37.00
+    },
+    "promocion": {
+      "walmart": "X",
+      "chedraui": "X",
+      "soriana": "X",
+      "aurrera": "X",
+      "laComer": "2x$65"
+    }
+  },
+  {
+    "id": 48219,
+    "name": "Suavizante Suavitel Recuerdos 3L",
+    "description": "Suavizante para ropa con fragancia duradera.",
+    "category": "Limpieza",
+    "image": "https://m.media-amazon.com/images/I/71jZ+XYXuPL._UF1000,1000_QL80_.jpg",
+    "prices": {
+      "walmart": 71.00,
+      "chedraui": 70.50,
+      "soriana": 69.90,
+      "aurrera": 68.00,
+      "laComer": 72.00
+    },
+    "promocion": {
+      "walmart": "X",
+      "chedraui": "X",
+      "soriana": "X",
+      "aurrera": "X",
+      "laComer": "2x$130"
+    }
+  },
+  {
+    "id": 27801,
+    "name": "Cereal Zucaritas 840g o Chocokrispirs 730g",
+    "description": "Cereal azucarado o con chocolate, ideal para el desayuno.",
+    "category": "Despensa",
+    "image": "https://chedrauimx.vtexassets.com/arquivos/ids/49635801/7501008066874_01.jpg?v=638852455480000000",
+    "prices": {
+      "walmart": 80.00,
+      "chedraui": 79.50,
+      "soriana": 78.90,
+      "aurrera": 77.00,
+      "laComer": 81.00
+    },
+    "promocion": {
+      "walmart": "X",
+      "chedraui": "X",
+      "soriana": "X",
+      "aurrera": "X",
+      "laComer": "2x$150"
+    }
+  },
+  {
+    "id": 98102,
+    "name": "Chayote",
+    "description": "Chayote fresco, ideal para guisos y ensaladas.",
+    "category": "Verduras",
+    "image": "https://www.dole.com/sites/default/files/styles/1024w768h-80/public/media/2025-01/chayote.png?itok=K2cPt0dJ-3oAi9AdB",
+    "prices": {
+      "walmart": 34.00,
+      "chedraui": 33.50,
+      "soriana": 32.80,
+      "aurrera": 31.00,
+      "laComer": 35.00
+    },
+    "promocion": {
+      "walmart": "X",
+      "chedraui": "X",
+      "soriana": "X",
+      "aurrera": "X",
+      "laComer": "5x$150"
+    }
+  },
+  {
+    "id": 75428,
+    "name": "Milanesa de pollo delgada Pilgrims Choice",
+    "description": "Milanesa de pollo delgada, lista para cocinar.",
+    "category": "Carnes",
+    "image": "https://www.soriana.com/dw/image/v2/BGBD_PRD/on/demandware.static/-/Sites-soriana-grocery-master-catalog/default/dwfe2c946c/images/product/0201670000004_A.jpg?sw=473&sh=473&sm=fit",
+    "prices": {
+      "walmart": 178.00,
+      "chedraui": 176.50,
+      "soriana": 175.00,
+      "aurrera": 174.90,
+      "laComer": 180.00
+    },
+    "promocion": {
+      "walmart": "X",
+      "chedraui": "X",
+      "soriana": "X",
+      "aurrera": "X",
+      "laComer": "2x$340"
+    }
+  },
+  {
+    "id": 21953,
+    "name": "Pechuga de pollo sin hueso congelada",
+    "description": "Pechuga de pollo sin hueso, congelada y lista para usar.",
+    "category": "Carnes",
+    "image": "https://chedrauimx.vtexassets.com/arquivos/ids/46763984/2503530_00.jpg?v=638798470824700000",
+    "prices": {
+      "walmart": 101.00,
+      "chedraui": 100.50,
+      "soriana": 99.00,
+      "aurrera": 98.00,
+      "laComer": 102.00
+    },
+    "promocion": {
+      "walmart": "X",
+      "chedraui": "X",
+      "soriana": "X",
+      "aurrera": "X",
+      "laComer": "3x$290"
+    }
+  },
+  {
+    "id": 25443,
+    "name": "Jurel",
+    "description": "Jurel fresco, ideal para platillos al horno o a la parrilla.",
+    "category": "Pescados",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlP5ePrlpIy39w6pM7xemoKoDCrVWqzCbuVA&s",
+    "prices": {
+      "walmart": 41.00,
+      "chedraui": 40.50,
+      "soriana": 39.90,
+      "aurrera": 38.00,
+      "laComer": 42.00
+    },
+    "promocion": {
+      "walmart": "X",
+      "chedraui": "X",
+      "soriana": "X",
+      "aurrera": "X",
+      "laComer": "2x$75"
+    }
+  },
+  {
+    "id": 90750,
+    "name": "Arroz Valley Droods 900g grano largo",
+    "description": "Arroz de grano largo, ideal para acompañar tus comidas.",
+    "category": "Despensa",
+    "image": "https://images.rappi.com.mx/products/95061733-2214-404a-aafc-9ff1a693fb04.png?d=100x100&e=webp&q=50",
+    "prices": {
+      "walmart": 27.00,
+      "chedraui": 26.50,
+      "soriana": 25.00,
+      "aurrera": 24.00,
+      "laComer": 28.00
+    },
+    "promocion": {
+      "walmart": "X",
+      "chedraui": "X",
+      "soriana": "X",
+      "aurrera": "X",
+      "laComer": "5x$120"
+    }
+  },
+  {
+    "id": 49221,
+    "name": "Cebolla blanca",
+    "description": "Cebolla blanca fresca, ideal para cocinar.",
+    "category": "Verduras",
+    "image": "https://www.superaki.mx/cdn/shop/products/0000000000023.png?v=1634911486",
+    "prices": {
+      "walmart": 10.50,
+      "chedraui": 10.00,
+      "soriana": 9.50,
+      "aurrera": 9.00,
+      "laComer": 11.00
+    },
+    "promocion": {
+      "walmart": "X",
+      "chedraui": "X",
+      "soriana": "X",
+      "aurrera": "X",
+      "laComer": "5x$45"
+    }
+  }
+]
